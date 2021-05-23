@@ -1,6 +1,6 @@
 org: davidraya980
 app: todo-list-serverless
-service: todo-list-serverless
+service: api-rest
 
 frameworkVersion: ">=1.1.0"
 
